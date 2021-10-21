@@ -5,7 +5,8 @@ public class gitTest {
         System.out.println("12345");
         System.out.println("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 ");
         System.out.println("Pull");
-                System.out.println("Push");
+        System.out.println("Push");
+        System.out.println("gitee");
 
     }
 }
